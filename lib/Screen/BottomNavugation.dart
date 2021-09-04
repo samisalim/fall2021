@@ -36,8 +36,8 @@ class _BottomNavState extends State<BottomNav> {
                     Icons.home,
                     size: 40,
                   ),
-                  label: 'MIC',
-                  tooltip: 'Mic',
+                  label: 'MENU',
+                  tooltip: 'Menu',
 
                 ),
                 BottomNavigationBarItem(
@@ -45,8 +45,8 @@ class _BottomNavState extends State<BottomNav> {
                          Icons.event_note_sharp,
                       size: 40,
                     ),
-                    label: 'MENU',
-                    tooltip: 'Menu'),
+                    label: 'NOTES',
+                    tooltip: 'Notes'),
                 BottomNavigationBarItem(
                     icon: Icon(
                         Icons.notifications,
